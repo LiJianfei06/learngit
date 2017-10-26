@@ -62,3 +62,8 @@ git remote rm origin   					就可以把 myremote 这个远程仓库从列表中
 git clone https://github.com/LiJianfei06/tensorflow_projects.git			从远程库克隆
 
 cd tensorflow_projects
+
+
+
+
+gitk             						打开git 里自带的图形化客户端 gitk 来查看和管理版本变动
