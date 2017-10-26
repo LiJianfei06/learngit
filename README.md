@@ -53,7 +53,7 @@ git commit -m "20171026"
 git push origin master
 
 
-git remote rm    git remote rm myremote 就可以把 myremote 这个远程仓库从列表中清除了。
+git remote rm origin   			就可以把 myremote 这个远程仓库从列表中清除了。
 
 
 
