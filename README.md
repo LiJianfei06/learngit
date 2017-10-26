@@ -39,14 +39,20 @@ git rm test.txt				确实要从版本库中删除该文件，那就用命令git 
 git remote add origin https://github.com/LiJianfei06/tensorflow_projects.git
 
 修改后：
+
 git push -u origin master		我们第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令
 
 以后修改后：
+
 git status
+
 git add README.md
+
 git commit -m "20171026"
+
 git push origin master
 
 
 git clone https://github.com/LiJianfei06/tensorflow_projects.git		从远程库克隆
+
 cd tensorflow_projects
