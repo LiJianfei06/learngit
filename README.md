@@ -53,6 +53,12 @@ git commit -m "20171026"
 git push origin master
 
 
+git remote rm    git remote rm myremote 就可以把 myremote 这个远程仓库从列表中清除了。
+
+
+
+
+
 git clone https://github.com/LiJianfei06/tensorflow_projects.git		从远程库克隆
 
 cd tensorflow_projects
