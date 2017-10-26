@@ -50,7 +50,7 @@ git add README.md
 
 git commit -m "20171026"
 
-git push origin master
+git push origin master					解释：git push [remote-name] [branch-name]     假设是要推送到默认的 origin 仓库中的 master 分支，那就运行：git push origin master
 
 
 git remote rm origin   					就可以把 myremote 这个远程仓库从列表中清除了。
