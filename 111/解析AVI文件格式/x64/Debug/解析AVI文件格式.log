@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (2099-00-00暂存实验用.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(244): warning C4244: “=”: 从“std::streamoff”转换到“DWORD”，可能丢失数据
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(314): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(350): warning C4018: “<”: 有符号/无符号不匹配
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(374): warning C4244: “=”: 从“std::streamoff”转换到“DWORD”，可能丢失数据
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
+f:\自动备份\visual studio projects\projects\2019-04-21 解析avi文件格式\解析avi文件格式\main.cpp(424): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+  解析AVI文件格式.vcxproj -> F:\自动备份\visual studio Projects\projects\2019-04-21 解析AVI文件格式\x64\Debug\解析AVI文件格式.exe
+  解析AVI文件格式.vcxproj -> F:\自动备份\visual studio Projects\projects\2019-04-21 解析AVI文件格式\x64\Debug\解析AVI文件格式.pdb (Partial PDB)
