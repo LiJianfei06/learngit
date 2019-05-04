@@ -1,9 +1,0 @@
-﻿  main.cpp
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(244): warning C4244: “=”: 从“std::streamoff”转换到“DWORD”，可能丢失数据
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(314): warning C4806: “&”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(350): warning C4018: “<”: 有符号/无符号不匹配
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(374): warning C4244: “=”: 从“std::streamoff”转换到“DWORD”，可能丢失数据
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(412): warning C4018: “<”: 有符号/无符号不匹配
-f:\自动备份\visual studio projects\projects\2099-00-00 暂存实验用\2099-00-00暂存实验用\main.cpp(424): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
-  2099-00-00暂存实验用.vcxproj -> F:\自动备份\visual studio Projects\projects\2099-00-00 暂存实验用\x64\Debug\2099-00-00暂存实验用.exe
-  2099-00-00暂存实验用.vcxproj -> F:\自动备份\visual studio Projects\projects\2099-00-00 暂存实验用\x64\Debug\2099-00-00暂存实验用.pdb (Partial PDB)
